@@ -7,9 +7,10 @@ Test-Path : Cannot bind argument to parameter 'Path' because it is null.
 At line:13 char:21
 +     if (!(Test-Path $CaptureFile)) { exit }
 +                     ~~~~~~~~~~~~
-    + CategoryInfo          : InvalidData: (:) [Test-Path], ParameterBindingValidationException
-    + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerShell.Commands.Test 
-   PathCommand
+    + CategoryInfo          : InvalidData: (:) [Test-Path], ParameterBindingValidationExceptio 
+   n
+    + FullyQualifiedErrorId : ParameterArgumentValidationErrorNullNotAllowed,Microsoft.PowerSh 
+   ell.Commands.TestPathCommand
  
 tshark: "fields" was unexpected in this context.
     ssl.record.version -T fields -e ssl.record.version
@@ -20,13 +21,14 @@ tshark: "fields" was unexpected in this context.
 tshark: "fields" was unexpected in this context.
     ssl.handshake.certificate -T fields -e x509sat.printableString
                                  ^~~~~~
--CaptureFile : The term '-CaptureFile' is not recognized as the name of a cmdlet, function, script file, or 
-operable program. Check the spelling of the name, or if a path was included, verify that the path is correct 
-and try again.
+-CaptureFile : The term '-CaptureFile' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, 
+verify that the path is correct and try again.
 At line:39 char:6
 +      -CaptureFile "D:\DXSO Works\TShark\capture.pcapng"
 +      ~~~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (-CaptureFile:String) [], CommandNotFoundException
+    + CategoryInfo          : ObjectNotFound: (-CaptureFile:String) [], CommandNotFoundExcepti 
+   on
     + FullyQualifiedErrorId : CommandNotFoundException
  
 
@@ -37,13 +39,14 @@ No external IPs found.
 tshark: "fields" was unexpected in this context.
     ip -T fields -e ip.src -e ip.dst
           ^~~~~~
--CaptureFile : The term '-CaptureFile' is not recognized as the name of a cmdlet, function, script file, or 
-operable program. Check the spelling of the name, or if a path was included, verify that the path is correct 
-and try again.
+-CaptureFile : The term '-CaptureFile' is not recognized as the name of a cmdlet, function, 
+script file, or operable program. Check the spelling of the name, or if a path was included, 
+verify that the path is correct and try again.
 At line:26 char:6
 +      -CaptureFile "D:\DXSO Works\TShark\capture.pcapng" -GuestSubnetP ...
 +      ~~~~~~~~~~~~
-    + CategoryInfo          : ObjectNotFound: (-CaptureFile:String) [], CommandNotFoundException
+    + CategoryInfo          : ObjectNotFound: (-CaptureFile:String) [], CommandNotFoundExcepti 
+   on
     + FullyQualifiedErrorId : CommandNotFoundException
  
 
@@ -52,19 +55,21 @@ Private profile: ENABLED
 Public profile: ENABLED
 Firewall is active.
 
-12:21:48	 B/s	0 Mbps
-12:21:50	 B/s	0 Mbps
-12:21:52	 B/s	0 Mbps
-12:21:54	 B/s	0 Mbps
-12:21:57	 B/s	0 Mbps
+15:05:38	 B/s	0 Mbps
+15:05:40	 B/s	0 Mbps
+15:05:42	 B/s	0 Mbps
+15:05:44	 B/s	0 Mbps
+15:05:46	 B/s	0 Mbps
 
 [!] ERROR:
-Get-Counter : The \Network Interface(WIFI)\Bytes Total/sec performance counter path  is not valid.
+Get-Counter : The \Network Interface(Wi-Fi 2)\Bytes Total/sec performance counter path  is not 
+valid.
 At line:6 char:20
 +         $counter = Get-Counter -Counter $counterPath
 +                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidResult: (:) [Get-Counter], Exception
-    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCommand
+    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCom 
+   mand
  
 Cannot index into a null array.
 At line:8 char:9
@@ -73,12 +78,14 @@ At line:8 char:9
     + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
     + FullyQualifiedErrorId : NullArray
  
-Get-Counter : The \Network Interface(WIFI)\Bytes Total/sec performance counter path  is not valid.
+Get-Counter : The \Network Interface(Wi-Fi 2)\Bytes Total/sec performance counter path  is not 
+valid.
 At line:6 char:20
 +         $counter = Get-Counter -Counter $counterPath
 +                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidResult: (:) [Get-Counter], Exception
-    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCommand
+    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCom 
+   mand
  
 Cannot index into a null array.
 At line:8 char:9
@@ -87,12 +94,14 @@ At line:8 char:9
     + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
     + FullyQualifiedErrorId : NullArray
  
-Get-Counter : The \Network Interface(WIFI)\Bytes Total/sec performance counter path  is not valid.
+Get-Counter : The \Network Interface(Wi-Fi 2)\Bytes Total/sec performance counter path  is not 
+valid.
 At line:6 char:20
 +         $counter = Get-Counter -Counter $counterPath
 +                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidResult: (:) [Get-Counter], Exception
-    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCommand
+    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCom 
+   mand
  
 Cannot index into a null array.
 At line:8 char:9
@@ -101,12 +110,14 @@ At line:8 char:9
     + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
     + FullyQualifiedErrorId : NullArray
  
-Get-Counter : The \Network Interface(WIFI)\Bytes Total/sec performance counter path  is not valid.
+Get-Counter : The \Network Interface(Wi-Fi 2)\Bytes Total/sec performance counter path  is not 
+valid.
 At line:6 char:20
 +         $counter = Get-Counter -Counter $counterPath
 +                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidResult: (:) [Get-Counter], Exception
-    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCommand
+    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCom 
+   mand
  
 Cannot index into a null array.
 At line:8 char:9
@@ -115,12 +126,14 @@ At line:8 char:9
     + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
     + FullyQualifiedErrorId : NullArray
  
-Get-Counter : The \Network Interface(WIFI)\Bytes Total/sec performance counter path  is not valid.
+Get-Counter : The \Network Interface(Wi-Fi 2)\Bytes Total/sec performance counter path  is not 
+valid.
 At line:6 char:20
 +         $counter = Get-Counter -Counter $counterPath
 +                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     + CategoryInfo          : InvalidResult: (:) [Get-Counter], Exception
-    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCommand
+    + FullyQualifiedErrorId : CounterPathIsInvalid,Microsoft.PowerShell.Commands.GetCounterCom 
+   mand
  
 Cannot index into a null array.
 At line:8 char:9
