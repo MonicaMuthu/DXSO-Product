@@ -73,17 +73,15 @@ def check_ports(ip):
     return open_ports
 
 # Check encryption protocol strength
-# Check encryption protocol strength
 def assess_encryption_protocol(encryption_list):
-    if const.AKM_TYPE_WPA2PSK in encryption_list:
-        return "Strong (WPA2)"
+    if const.AKM_TYPE_WPA3PSK in encryption_list:
+        return "Strong (WPA3)"
+    elif const.AKM_TYPE_WPA2PSK in encryption_list:
+        return "Moderate (WPA2)"
     elif const.AKM_TYPE_WPAPSK in encryption_list:
-        return "Moderate (WPA)"
-    elif const.AKM_TYPE_NONE in encryption_list:
-        return "Open (No encryption)"
+        return "Weak (WPA1)"
     else:
-        return "Unknown/Other"
-
+        return "Open or Unknown"
 
 # Password strength analysis (basic SSID name check)
 def analyze_password_strength(ssid):

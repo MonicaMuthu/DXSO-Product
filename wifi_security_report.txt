@@ -3,45 +3,87 @@ Scanning devices on the network...
 Using interface: \Device\NPF_{EAB29222-F2CB-449F-A8E2-088BB5CEB97D}
 
 --- Wi-Fi Security Assessment Summary ---
-Total Nearby SSIDs Detected: 17
+Total Nearby SSIDs Detected: 44
 
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0d: | Signal: -86 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -60 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4e:47: | Signal: -85 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:47:b5: | Signal: -80 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -71 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -71 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:94: | Signal: -90 | Encryption: WPA2
 SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -77 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -68 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -72 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -68 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -72 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -60 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -84 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: WPA2
 SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -78 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -88 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -69 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0d: | Signal: -86 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 46:ae:30:d7:54:17: | Signal: -90 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 46:ae:30:d7:4e:47: | Signal: -85 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 9e:25:4a:d7:47:b5: | Signal: -82 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 46:ae:30:d7:53:c3: | Signal: -70 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 9e:25:4a:d7:44:b7: | Signal: -73 | Encryption: WPA2
+SSID: <Hidden> | BSSID: 36:de:4b:1f:eb:ed: | Signal: -78 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -60 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4e:47: | Signal: -85 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:47:b5: | Signal: -80 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -71 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -71 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:94: | Signal: -90 | Encryption: WPA2
 SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -77 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -68 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -72 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -68 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -72 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -60 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -84 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: WPA2
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: WPA2
 SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -78 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -88 | Encryption: WPA2
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -69 | Encryption: WPA2
-SSID: <Hidden> | BSSID: 36:de:4b:1f:ec:0d: | Signal: -87 | Encryption: WPA2
-SSID: <Hidden> | BSSID: 36:de:4b:1f:eb:ed: | Signal: -77 | Encryption: WPA2
-SSID: <Hidden> | BSSID: 9e:25:4a:d7:44:b7: | Signal: -69 | Encryption: WPA2
 
-Total Devices Detected on LAN: 63
+Total Devices Detected on LAN: 56
 MAC Address Filtering: Possibly Disabled
 Guest Network: Trusted Network
 WIDS/WIPS Detection: Not directly detectable via script. Requires enterprise-grade sensors.
 
 Access Point Placement (Signal Strengths):
-  AP BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 dBm
-  AP BSSID: 30:de:4b:1f:ec:0d: | Signal: -86 dBm
+  AP BSSID: 30:de:4b:1f:eb:d8: | Signal: -60 dBm
+  AP BSSID: 40:ae:30:d7:4e:47: | Signal: -85 dBm
+  AP BSSID: 98:25:4a:d7:47:b5: | Signal: -80 dBm
+  AP BSSID: 40:ae:30:d7:53:c3: | Signal: -71 dBm
+  AP BSSID: 98:25:4a:d7:44:b7: | Signal: -71 dBm
+  AP BSSID: 98:25:4a:d7:44:94: | Signal: -90 dBm
   AP BSSID: 30:de:4b:1f:eb:ed: | Signal: -77 dBm
+  AP BSSID: e4:fa:c4:3e:59:5e: | Signal: -68 dBm
+  AP BSSID: 30:de:4b:1f:f2:f8: | Signal: -72 dBm
+  AP BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 dBm
+  AP BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 dBm
+  AP BSSID: 98:25:4a:d7:44:b6: | Signal: -68 dBm
+  AP BSSID: 30:de:4b:1f:f2:d6: | Signal: -72 dBm
+  AP BSSID: e4:fa:c4:3e:59:60: | Signal: -82 dBm
+  AP BSSID: 30:de:4b:1f:eb:ec: | Signal: -60 dBm
+  AP BSSID: 40:ae:30:d7:4f:8e: | Signal: -84 dBm
+  AP BSSID: 40:ae:30:d7:53:c2: | Signal: -66 dBm
+  AP BSSID: 30:de:4b:d4:13:b0: | Signal: -86 dBm
   AP BSSID: 40:ed:00:9c:d1:f8: | Signal: -78 dBm
-  AP BSSID: 40:ae:30:d7:53:c2: | Signal: -62 dBm
-  AP BSSID: 40:ae:30:d7:4f:8e: | Signal: -88 dBm
-  AP BSSID: 98:25:4a:d7:44:b7: | Signal: -69 dBm
-  AP BSSID: 36:de:4b:1f:ec:0d: | Signal: -87 dBm
-  AP BSSID: 36:de:4b:1f:eb:ed: | Signal: -77 dBm
-  AP BSSID: 9e:25:4a:d7:44:b7: | Signal: -69 dBm
+  AP BSSID: 46:ae:30:d7:54:17: | Signal: -90 dBm
+  AP BSSID: 46:ae:30:d7:4e:47: | Signal: -85 dBm
+  AP BSSID: 9e:25:4a:d7:47:b5: | Signal: -82 dBm
+  AP BSSID: 46:ae:30:d7:53:c3: | Signal: -70 dBm
+  AP BSSID: 9e:25:4a:d7:44:b7: | Signal: -73 dBm
+  AP BSSID: 36:de:4b:1f:eb:ed: | Signal: -78 dBm
 
 Firewall Integration: Firewall: Router access likely blocked
-Bandwidth Estimate: Devices: 63, Signal Avg: -75.12 dBm (SNMP required for actual bandwidth)
+Bandwidth Estimate: Devices: 56, Signal Avg: -76.41 dBm (SNMP required for actual bandwidth)
 Authentication Mechanism: Captive Portal Likely (Port 443 open)
 
 --- End of Assessment ---
