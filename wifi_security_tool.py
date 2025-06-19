@@ -53,13 +53,18 @@ def check_mac_filtering(devices):
     unique_macs = list(set(known_macs))
     return len(known_macs) == len(unique_macs)
 
-# Firewall ping check
+# Firewall ping check with status classification
 def check_firewall(ip):
     try:
         result = subprocess.run(['ping', '-n', '1', ip], capture_output=True, text=True)
-        return "Firewall Enabled (ping blocked)" if "unreachable" in result.stdout.lower() or "100%" in result.stdout else "Ping response - Firewall may be weak"
+        if "unreachable" in result.stdout.lower() or "100%" in result.stdout:
+            return "Firewall Status: Enabled (ICMP Blocked)"
+        elif "reply from" in result.stdout.lower():
+            return "Firewall Status: Disabled or Permissive (ICMP Allowed)"
+        else:
+            return "Firewall Status: Unknown behavior"
     except:
-        return "Could not determine firewall status"
+        return "Firewall Status: Could not determine"
 
 # Port scan
 def check_ports(ip):
@@ -73,7 +78,6 @@ def check_ports(ip):
     return open_ports
 
 # Check encryption protocol strength
-# Check encryption protocol strength
 def assess_encryption_protocol(encryption_list):
     if const.AKM_TYPE_WPA2PSK in encryption_list:
         return "Strong (WPA2)"
@@ -83,7 +87,6 @@ def assess_encryption_protocol(encryption_list):
         return "Open (No encryption)"
     else:
         return "Unknown/Other"
-
 
 # Password strength analysis (basic SSID name check)
 def analyze_password_strength(ssid):
