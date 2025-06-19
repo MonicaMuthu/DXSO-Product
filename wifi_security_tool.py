@@ -132,45 +132,53 @@ def is_guest_network():
 
 # --- Final Report ---
 def generate_report():
-    print("Scanning Wi-Fi SSIDs and Encryption...")
+    output_lines = []
+    output_lines.append("Scanning Wi-Fi SSIDs and Encryption...")
     networks = get_ssid_and_encryption()
-    print("Scanning devices on the network...")
+    output_lines.append("Scanning devices on the network...")
     devices = scan_lan_devices()
 
-    print("\n--- Wi-Fi Security Assessment Summary ---")
-    print(f"Total Nearby SSIDs Detected: {len(networks)}\n")
+    output_lines.append("\n--- Wi-Fi Security Assessment Summary ---")
+    output_lines.append(f"Total Nearby SSIDs Detected: {len(networks)}\n")
     for n in networks:
         encryption_type = assess_encryption_protocol(n['Encryption'])
         password_strength = analyze_password_strength(n['SSID'])
-        print(f"SSID: {n['SSID']} | BSSID: {n['BSSID']} | Signal: {n['Signal']} | Encryption: {encryption_type} | Password Strength: {password_strength}")
+        output_lines.append(f"SSID: {n['SSID']} | BSSID: {n['BSSID']} | Signal: {n['Signal']} | Encryption: {encryption_type} | Password Strength: {password_strength}")
 
-    print("\nTotal Devices Detected on LAN:", len(devices))
+    output_lines.append(f"\nTotal Devices Detected on LAN: {len(devices)}")
     for d in devices:
-        print(f"IP: {d['ip']} | MAC: {d['mac']}")
+        output_lines.append(f"IP: {d['ip']} | MAC: {d['mac']}")
         fw_status = check_firewall(d['ip'])
-        print(f"    ↳ {fw_status}")
+        output_lines.append(f"    ↳ {fw_status}")
         open_ports = check_ports(d['ip'])
-        print(f"    ↳ Open Ports: {open_ports if open_ports else 'None'}")
+        output_lines.append(f"    ↳ Open Ports: {open_ports if open_ports else 'None'}")
 
     mac_filtering_enabled = check_mac_filtering(devices)
-    print("\nMAC Address Filtering:", "Likely Enabled" if mac_filtering_enabled else "Not Strict (Duplicates found)")
+    output_lines.append(f"\nMAC Address Filtering: {'Likely Enabled' if mac_filtering_enabled else 'Not Strict (Duplicates found)'}")
 
     guest_result = is_guest_network()
-    print("\nGuest Network:", "Likely Active (based on subnet/isolation)" if guest_result else "Not Detected")
+    output_lines.append(f"\nGuest Network: {'Likely Active (based on subnet/isolation)' if guest_result else 'Not Detected'}")
 
-    print("\nWIDS/WIPS Detection: Not Directly Detectable via Script (Requires Enterprise WLC or sensors)")
-    print("\nAuthentication Mechanism: Ports 802.1X/Radius not directly testable, but check port 1812 (RADIUS) or 443")
+    output_lines.append("\nWIDS/WIPS Detection: Not Directly Detectable via Script (Requires Enterprise WLC or sensors)")
+    output_lines.append("\nAuthentication Mechanism: Ports 802.1X/Radius not directly testable, but check port 1812 (RADIUS) or 443")
 
-    print("\nFirewall Integration: Basic ping & port test included (advanced requires admin router access)")
-    print("Router Firmware Updates: Cannot be checked without SNMP/HTTP admin access")
-    print("Network Segmentation: Suggested if LAN device count is zero in shared network")
-    print("Audit and Logging: Add centralized logging/SIEM in real deployments")
-    print("Penetration Testing: Manual tools (e.g., nmap, metasploit) needed for deep test")
-    print("User Awareness Testing: Consider phishing simulations or training platform")
+    output_lines.append("\nFirewall Integration: Basic ping & port test included (advanced requires admin router access)")
+    output_lines.append("Router Firmware Updates: Cannot be checked without SNMP/HTTP admin access")
+    output_lines.append("Network Segmentation: Suggested if LAN device count is zero in shared network")
+    output_lines.append("Audit and Logging: Add centralized logging/SIEM in real deployments")
+    output_lines.append("Penetration Testing: Manual tools (e.g., nmap, metasploit) needed for deep test")
+    output_lines.append("User Awareness Testing: Consider phishing simulations or training platform")
 
-    print("\nBandwidth Estimate: Based on total devices + signal strength (not accurate without SNMP)")
-    print("For precise bandwidth & traffic, integrate with SNMP or NetFlow in enterprise setups.\n")
-    print("--- End of Assessment ---")
+    output_lines.append("\nBandwidth Estimate: Based on total devices + signal strength (not accurate without SNMP)")
+    output_lines.append("For precise bandwidth & traffic, integrate with SNMP or NetFlow in enterprise setups.\n")
+    output_lines.append("--- End of Assessment ---")
+
+    for line in output_lines:
+        print(line)
+
+    with open("wifi_security_report.txt", "w") as f:
+        for line in output_lines:
+            f.write(line + "\n")
 
 if __name__ == "__main__":
     generate_report()
