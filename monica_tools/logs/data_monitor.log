@@ -1,0 +1,24 @@
+2025-06-20 09:51:02,653 - INFO - === Data Monitoring Session Started ===
+2025-06-20 09:51:04,686 - INFO - Bandwidth - Upload: 0.00 KB/s, Download: 0.27 KB/s
+2025-06-20 09:51:04,686 - INFO - Encrypted Connections: HTTPS, SSH
+2025-06-20 09:51:04,687 - INFO - Unencrypted Connections: HTTP, FTP
+2025-06-20 09:51:04,724 - INFO - Cloud Upload in Progress: OneDrive.exe
+2025-06-20 09:51:25,537 - INFO - No cross-network transfer detected (simulation).
+2025-06-20 09:51:25,538 - INFO - Audit Check Passed - Logging system active.
+2025-06-20 10:06:02,561 - INFO - === Data Monitoring Session Started ===
+2025-06-20 10:06:02,573 - INFO - Data Flow - Sent: 15983254 bytes, Received: 176675052 bytes
+2025-06-20 10:06:02,574 - INFO - Protocol Identification - Protocols Used: HTTP, HTTPS, DNS
+2025-06-20 10:06:03,586 - INFO - Data Flow - Sent: 15983254 bytes, Received: 176675289 bytes
+2025-06-20 10:06:04,595 - INFO - Data Flow - Sent: 15983254 bytes, Received: 176675409 bytes
+2025-06-20 10:06:04,596 - INFO - Bandwidth - Upload: 0.00 KB/s, Download: 0.12 KB/s
+2025-06-20 10:06:04,596 - INFO - Encrypted Connections: HTTPS, SSH
+2025-06-20 10:06:04,596 - INFO - Unencrypted Connections: HTTP, FTP
+2025-06-20 10:06:04,603 - INFO - Data Flow - Sent: 15983254 bytes, Received: 176675409 bytes
+2025-06-20 10:06:04,603 - INFO - File Transfer Monitor - Total Usage: 183.73 MB
+2025-06-20 10:06:04,603 - INFO - Data Transfer Limits - Upload: 15983254 bytes, Download: 176675409 bytes
+2025-06-20 10:06:04,641 - INFO - Unauthorized Transfer - No suspicious apps found.
+2025-06-20 10:06:04,649 - INFO - Cloud Upload in Progress: OneDrive.exe
+2025-06-20 10:06:12,908 - INFO - DLP - 30 suspicious files found.
+2025-06-20 10:06:12,960 - INFO - Cross-Network Transfer - No unusual transfer detected (simulated).
+2025-06-20 10:06:12,960 - INFO - Audit Check - Logging system is active and running.
+2025-06-20 10:06:13,065 - INFO - Historical Report - Displayed last 10 lines from log.

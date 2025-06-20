@@ -1,0 +1,66 @@
+[2025-06-20 09:51:04.698316] ALERT: Download exceeded limit.
+[2025-06-20 09:51:25.524856] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\ThirdPartyNotices.txt
+[2025-06-20 09:51:25.525255] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\english_wikipedia.txt
+[2025-06-20 09:51:25.525762] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\passwords.txt
+[2025-06-20 09:51:25.526008] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\us_tv_and_film.txt
+[2025-06-20 09:51:25.526346] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 09:51:25.526737] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 09:51:25.526915] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 09:51:25.527079] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 09:51:25.527269] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 09:51:25.527497] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 09:51:25.527645] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+[2025-06-20 09:51:25.527781] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\appsglobals.txt
+[2025-06-20 09:51:25.527951] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\appssynonyms.txt
+[2025-06-20 09:51:25.528097] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\settingsglobals.txt
+[2025-06-20 09:51:25.530515] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\settingssynonyms.txt
+[2025-06-20 09:51:25.531469] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\appsglobals.txt
+[2025-06-20 09:51:25.532222] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\appssynonyms.txt
+[2025-06-20 09:51:25.532561] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\settingsglobals.txt
+[2025-06-20 09:51:25.532811] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\settingssynonyms.txt
+[2025-06-20 09:51:25.533074] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\SettingsCache.txt
+[2025-06-20 09:51:25.533778] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 09:51:25.534073] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 09:51:25.534331] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 09:51:25.534542] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 09:51:25.534742] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 09:51:25.534936] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 09:51:25.535269] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Microsoft VS Code\resources\app\ThirdPartyNotices.txt
+[2025-06-20 09:51:25.535579] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\NEWS.txt
+[2025-06-20 09:51:25.535996] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy-2.2.4.dist-info\LICENSE.txt
+[2025-06-20 09:51:25.536398] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\scipy-1.15.2.dist-info\LICENSE.txt
+[2025-06-20 09:51:25.539047] ALERT: Compliance Check Failed: Missing privacy_policy.txt
+[2025-06-20 09:51:25.539532] ALERT: Compliance Check Failed: Missing security_guidelines.txt
+[2025-06-20 10:06:04.604325] ALERT: Download exceeded limit.
+[2025-06-20 10:06:12.909873] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\.vscode\extensions\ms-python.debugpy-2025.8.0-win32-x64\bundled\libs\debugpy\ThirdPartyNotices.txt
+[2025-06-20 10:06:12.913016] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\english_wikipedia.txt
+[2025-06-20 10:06:12.916755] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\passwords.txt
+[2025-06-20 10:06:12.917916] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\us_tv_and_film.txt
+[2025-06-20 10:06:12.920385] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 10:06:12.920907] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 10:06:12.921466] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 10:06:12.922829] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 10:06:12.923704] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 10:06:12.925052] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Microsoft\Olk\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 10:06:12.926330] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\DiagOutputDir\SkypeApp0.txt
+[2025-06-20 10:06:12.933407] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\appsglobals.txt
+[2025-06-20 10:06:12.935937] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\appssynonyms.txt
+[2025-06-20 10:06:12.944047] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\settingsglobals.txt
+[2025-06-20 10:06:12.945919] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{6dddecea-4d6d-403b-b05d-1f4c00ba5a62}\settingssynonyms.txt
+[2025-06-20 10:06:12.946653] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\appsglobals.txt
+[2025-06-20 10:06:12.947242] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\appssynonyms.txt
+[2025-06-20 10:06:12.950056] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\settingsglobals.txt
+[2025-06-20 10:06:12.950549] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\ConstraintIndex\Input_{da9880c8-f8d5-46e8-bc6c-0d4267cb9e84}\settingssynonyms.txt
+[2025-06-20 10:06:12.951032] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\SettingsCache.txt
+[2025-06-20 10:06:12.951581] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 10:06:12.952081] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 10:06:12.952541] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 10:06:12.953147] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\english_wikipedia.txt
+[2025-06-20 10:06:12.953588] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\passwords.txt
+[2025-06-20 10:06:12.954056] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ZxcvbnData\3.1.0.0\us_tv_and_film.txt
+[2025-06-20 10:06:12.954547] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Microsoft VS Code\resources\app\ThirdPartyNotices.txt
+[2025-06-20 10:06:12.954978] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\NEWS.txt
+[2025-06-20 10:06:12.955537] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\numpy-2.2.4.dist-info\LICENSE.txt
+[2025-06-20 10:06:12.956998] ALERT: DLP Alert - Sensitive data found in C:/Users\Admin\AppData\Local\Programs\Python\Python313\Lib\site-packages\scipy-1.15.2.dist-info\LICENSE.txt
+[2025-06-20 10:06:12.961198] ALERT: Compliance Check Failed: Missing privacy_policy.txt
+[2025-06-20 10:06:12.962811] ALERT: Compliance Check Failed: Missing security_guidelines.txt
