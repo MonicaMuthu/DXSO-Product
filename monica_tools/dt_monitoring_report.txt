@@ -1,0 +1,70 @@
+=== 🛰️ Network Data Transfer Monitoring Report ===
+Session Start: 2025-06-24 13:10:46.245952
+Monitoring Duration: 0:01:00.030681
+============================================================
+
+📋 Monitoring Activity Breakdown:
+
+1. 📊 Data Flow Analysis:
+   - 142.251.222.142: 1.29 KB
+   - 192.168.1.241: 200.83 KB
+   - 20.167.82.225: 0.3 KB
+   - 52.178.17.233: 28.34 KB
+   - 192.168.1.1: 2.43 KB
+   - 52.168.117.171: 7.24 KB
+   - 172.217.194.188: 0.06 KB
+   - 3.33.221.48: 0.3 KB
+   - 52.182.143.209: 47.09 KB
+   - 142.250.182.68: 4.42 KB
+   - 13.107.253.58: 73.51 KB
+
+2. 🗂️ File Transfer Monitoring:
+   ✔️ No large file transfers detected.
+
+3. 🔄 Protocol Identification:
+   Detected Protocols: udp, tcp
+
+4. 📈 Bandwidth Utilization:
+   - 192.168.1.241: 0.2 MB
+   - 13.107.253.58: 0.07 MB
+   - 52.182.143.209: 0.05 MB
+   - 52.178.17.233: 0.03 MB
+   - 52.168.117.171: 0.01 MB
+
+5. 🔐 Encrypted vs Unencrypted Data:
+   ✔️ All transfers used encrypted channels.
+
+6. 🚫 Unauthorized Transfers:
+   ⚠️ 9 unauthorized transfers detected.
+   → 142.251.222.142 → 192.168.1.241
+   → 142.251.222.142 → 192.168.1.241
+   → 142.251.222.142 → 192.168.1.241
+
+7. 📏 Data Transfer Limits:
+   ✔️ No IPs exceeded 50MB transfer limit.
+
+8. ⏱️ Real-Time Alerts:
+   Total Alerts Triggered: 20 (max displayed: 20)
+
+9. 🛑 Data Loss Prevention:
+   ✔️ No DLP violations detected.
+
+10. 🌐 Cross-Network Transfers:
+   ⚠️ 11 external communications found.
+   → 192.168.1.241 → 142.251.222.142
+   → 192.168.1.241 → 142.251.222.142
+   → 192.168.1.241 → 142.251.222.142
+
+11. ☁️ Cloud Storage Monitoring:
+   ✔️ No cloud upload attempts found.
+
+12. 🧾 Audit and Logging:
+   - Total Alerts: 20
+   - Protocols: udp, tcp
+   - Top IPs monitored: 11
+
+13. 📋 Compliance Checks:
+   → ✅ All data transfers used secure protocols
+
+✅ Monitoring completed. Summary generated.
+📄 Report saved as: dt_monitoring_report.txt
