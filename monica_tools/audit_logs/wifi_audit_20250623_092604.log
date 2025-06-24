@@ -1,0 +1,88 @@
+
+[+] Capturing live traffic from 'clear' for 10 seconds...
+[✓] Live traffic captured to: audit_logs/live_capture_20250623_092613.pcapng
+
+[1] TLS Encryption & Cipher Assessment
+TLS Versions:
+No TLS versions found.
+
+Cipher Suites:
+No cipher suites found.
+
+Certificates:
+No certificates found.
+[!] Errors:
+tshark: The file "audit_logs/live_capture_20250623_092613.pcapng" doesn't exist.
+
+tshark: The file "audit_logs/live_capture_20250623_092613.pcapng" doesn't exist.
+
+tshark: The file "audit_logs/live_capture_20250623_092613.pcapng" doesn't exist.
+
+
+[3] Firewall Status
+
+Domain Profile Settings: 
+----------------------------------------------------------------------
+State                                 ON
+Firewall Policy                       BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (GPO-store only)
+LocalConSecRules                      N/A (GPO-store only)
+InboundUserNotification               Enable
+RemoteManagement                      Disable
+UnicastResponseToMulticast            Enable
+
+Logging:
+LogAllowedConnections                 Disable
+LogDroppedConnections                 Disable
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Private Profile Settings: 
+----------------------------------------------------------------------
+State                                 ON
+Firewall Policy                       BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (GPO-store only)
+LocalConSecRules                      N/A (GPO-store only)
+InboundUserNotification               Enable
+RemoteManagement                      Disable
+UnicastResponseToMulticast            Enable
+
+Logging:
+LogAllowedConnections                 Disable
+LogDroppedConnections                 Disable
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+Public Profile Settings: 
+----------------------------------------------------------------------
+State                                 ON
+Firewall Policy                       BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (GPO-store only)
+LocalConSecRules                      N/A (GPO-store only)
+InboundUserNotification               Enable
+RemoteManagement                      Disable
+UnicastResponseToMulticast            Enable
+
+Logging:
+LogAllowedConnections                 Disable
+LogDroppedConnections                 Disable
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+Ok.
+
+
+
+[4] Real-Time Traffic Monitor
+09:26:19 		 B/s  	 0 Mbps
+09:26:21 		 B/s  	 0 Mbps
+09:26:23 		 B/s  	 0 Mbps
+09:26:26 		 B/s  	 0 Mbps
+09:26:28 		 B/s  	 0 Mbps
+
+[5] Recent Logins
+
+
+[✓] All tasks completed. Log saved at: audit_logs/wifi_audit_20250623_092604.log

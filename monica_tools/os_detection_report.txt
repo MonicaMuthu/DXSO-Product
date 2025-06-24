@@ -1,0 +1,232 @@
+=== Network OS Activity Report ===
+Scan Time: 2025-06-24 12:07:35.091080
+Scanned Subnet: 192.168.1.0/24
+------------------------------------------------------------
+
+📡 Host: 192.168.1.1
+  ↪ Hostname: Linksys05616
+  ↪ State: up
+  ↪ OS Guess: Linux 3.2 - 4.14
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.10
+  ↪ Hostname: CHANCALVIBEN
+  ↪ State: up
+  ↪ OS Guess: Microsoft Windows 11 21H2
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.126
+  ↪ Hostname: pavilion
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.129
+  ↪ Hostname: NIRMAL
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.168
+  ↪ Hostname: Redmi-12
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.177
+  ↪ Hostname: WGC
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.180
+  ↪ Hostname: kali
+  ↪ State: up
+  ↪ OS Guess: Linux 4.15 - 5.19
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.182
+  ↪ Hostname: DESKTOP-V87T25S
+  ↪ State: up
+  ↪ OS Guess: Microsoft Windows 11 21H2
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.193
+  ↪ Hostname: LAPTOP-7Q135OLB
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.196
+  ↪ Hostname: Aswath
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.209
+  ↪ Hostname: OPPO-A73
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.212
+  ↪ Hostname: Ishigami
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.222
+  ↪ Hostname: OVIYA
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.241
+  ↪ Hostname: DESKTOP-5EVSO9A
+  ↪ State: up
+  ↪ OS Guess: Microsoft Windows 10 1607 - 11 23H2
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.40
+  ↪ Hostname: Rajesh
+  ↪ State: up
+  ↪ OS Guess: Microsoft Windows 11 21H2
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.41
+  ↪ Hostname: V2348
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.78
+  ↪ Hostname: LAPTOP-JIOEN3RI
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.92
+  ↪ Hostname: Kawins-LOQ
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+
+📡 Host: 192.168.1.93
+  ↪ Hostname: Roshaan-Pavilion
+  ↪ State: up
+  ↪ OS Guess: Not Available
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds

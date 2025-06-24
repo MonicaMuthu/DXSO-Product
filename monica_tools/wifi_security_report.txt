@@ -2,43 +2,52 @@ Scanning Wi-Fi SSIDs and Encryption...
 Scanning devices on the network...
 
 --- Wi-Fi Security Assessment Summary ---
-Total Nearby SSIDs Detected: 35
+Total Nearby SSIDs Detected: 44
 
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:47:b5: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -69 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:94: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -83 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -83 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -77 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -58 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID:  | BSSID: 4e:22:54:40:46:d3: | Signal: -85 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:d9: | Signal: -77 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:d4:13:99: | Signal: -58 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -83 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -83 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -77 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -58 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID:  | BSSID: 9e:25:4a:d7:47:b5: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
-SSID:  | BSSID: 46:ae:30:d7:53:c3: | Signal: -70 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
-SSID:  | BSSID: 9e:25:4a:d7:44:b7: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:47:b5: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -69 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:94: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
-SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
 
 Total Devices Detected on LAN: 0
 
@@ -60,4 +69,397 @@ User Awareness Testing: Consider phishing simulations or training platform
 Bandwidth Estimate: Based on total devices + signal strength (not accurate without SNMP)
 For precise bandwidth & traffic, integrate with SNMP or NetFlow in enterprise setups.
 
+--- End of Assessment ---
+Scanning Wi-Fi SSIDs and Encryption...
+Scanning devices on the network...
+
+--- Wi-Fi Security Assessment Summary ---
+Total Nearby SSIDs Detected: 42
+
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -85 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -61 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -70 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -58 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -98 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID:  | BSSID: 4e:22:54:40:46:d3: | Signal: -85 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:d4:13:99: | Signal: -61 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f2:cb: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:d9: | Signal: -71 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -85 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -61 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -70 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -58 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -98 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+
+Total Devices Detected on LAN: 0
+
+MAC Address Filtering: Likely Enabled
+
+Guest Network: Likely Active (based on subnet/isolation)
+
+WIDS/WIPS Detection: Cannot detect without Enterprise Wireless Controllers or sensors
+Authentication Ports Detected: Checking port 1812 (RADIUS), 443 (HTTPS)
+
+Firewall Integration: ICMP and port scan conducted for all active hosts
+Router Firmware Updates: Access denied (requires SNMP or HTTP admin access)
+Network Segmentation: Possible
+Audit & Logging: Not implemented. Recommend forwarding logs to SIEM (e.g., Splunk)
+Penetration Testing: Run nmap or metasploit externally for vulnerability assessment
+User Awareness Testing: Use simulated phishing (e.g., GoPhish, KnowBe4)
+
+Bandwidth Estimate: Not precise. SNMP/NetFlow required for exact traffic insight.
+--- End of Assessment ---
+Scanning Wi-Fi SSIDs and Encryption...
+Scanning devices on the network...
+
+--- Wi-Fi Security Assessment Summary ---
+Total Nearby SSIDs Detected: 57
+
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -60 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:87: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5f: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f1:5d: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -60 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:87: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5f: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f1:5d: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c3: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b7: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID:  | BSSID: 46:ed:00:9c:d1:87: | Signal: -87 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: ea:fa:c4:3e:59:5f: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f1:5d: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:d4:13:99: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 4e:22:54:40:46:d3: | Signal: -83 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f2:cb: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:d9: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 46:ae:30:d7:4e:47: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 46:ae:30:d7:53:c3: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 9e:25:4a:d7:44:b7: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:ed: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+
+Total Devices Detected on LAN: 0
+
+MAC Address Filtering: Likely Enabled
+
+Guest Network: Likely Active (based on subnet/isolation)
+
+WIDS/WIPS Detection: Cannot detect without Enterprise Wireless Controllers or sensors
+Authentication Ports Detected: Checking port 1812 (RADIUS), 443 (HTTPS)
+
+Firewall Integration: ICMP and port scan conducted for all active hosts
+Router Firmware Updates: Access denied (requires SNMP or HTTP admin access)
+Network Segmentation: Possible
+Audit & Logging: Not implemented. Recommend forwarding logs to SIEM (e.g., Splunk)
+Penetration Testing: Run nmap or metasploit externally for vulnerability assessment
+User Awareness Testing: Use simulated phishing (e.g., GoPhish, KnowBe4)
+
+Bandwidth Estimate: Not precise. SNMP/NetFlow required for exact traffic insight.
+--- End of Assessment ---
+Scanning Wi-Fi SSIDs and Encryption...
+Scanning devices on the network...
+
+--- Wi-Fi Security Assessment Summary ---
+Total Nearby SSIDs Detected: 42
+
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -56 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -87 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d7: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID:  | BSSID: 36:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:d9: | Signal: -75 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:d4:13:99: | Signal: -56 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 4e:22:54:40:46:d3: | Signal: -85 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -56 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -87 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d7: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+
+Total Devices Detected on LAN: 0
+
+MAC Address Filtering: Likely Enabled
+
+Guest Network: Likely Active (based on subnet/isolation)
+
+WIDS/WIPS Detection: Cannot detect without Enterprise Wireless Controllers or sensors
+Authentication Ports Detected: Checking port 1812 (RADIUS), 443 (HTTPS)
+
+Firewall Integration: ICMP and port scan conducted for all active hosts
+Router Firmware Updates: Access denied (requires SNMP or HTTP admin access)
+Network Segmentation: Possible
+Audit & Logging: Not implemented. Recommend forwarding logs to SIEM (e.g., Splunk)
+Penetration Testing: Run nmap or metasploit externally for vulnerability assessment
+User Awareness Testing: Use simulated phishing (e.g., GoPhish, KnowBe4)
+
+Bandwidth Estimate: Not precise. SNMP/NetFlow required for exact traffic insight.
+--- End of Assessment ---
+Scanning Wi-Fi SSIDs and Encryption...
+Scanning devices on the network...
+
+--- Wi-Fi Security Assessment Summary ---
+Total Nearby SSIDs Detected: 47
+
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -57 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d7: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID:  | BSSID: 36:de:4b:d4:13:99: | Signal: -56 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 4e:22:54:40:46:d3: | Signal: -87 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:eb:d9: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: 36:de:4b:1f:f2:d7: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ed: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:99: | Signal: -57 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:cb: | Signal: -81 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d9: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 48:22:54:40:46:d3: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:4f:8e: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 98:25:4a:d7:44:b6: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:d4:13:b0: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:d8: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ae:30:d7:53:c2: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:d1:f8: | Signal: -90 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d7: | Signal: -84 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 40:ed:00:9c:cb:d2: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:f8: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:5e: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ea: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:ca: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:eb:ec: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: e4:fa:c4:3e:59:60: | Signal: -86 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:f2:d6: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-WIFI-A_Block | BSSID: 30:de:4b:1f:ec:0c: | Signal: -88 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+
+Total Devices Detected on LAN: 0
+
+MAC Address Filtering: Likely Enabled
+
+Guest Network: Likely Active (based on subnet/isolation)
+
+WIDS/WIPS Detection: Cannot detect without Enterprise Wireless Controllers or sensors
+Authentication Ports Detected: Checking port 1812 (RADIUS), 443 (HTTPS)
+
+Firewall Integration: ICMP and port scan conducted for all active hosts
+Router Firmware Updates: Access denied (requires SNMP or HTTP admin access)
+Network Segmentation: Possible
+Audit & Logging: Not implemented. Recommend forwarding logs to SIEM (e.g., Splunk)
+Penetration Testing: Run nmap or metasploit externally for vulnerability assessment
+User Awareness Testing: Use simulated phishing (e.g., GoPhish, KnowBe4)
+
+Bandwidth Estimate: Not precise. SNMP/NetFlow required for exact traffic insight.
+--- End of Assessment ---
+Scanning Wi-Fi SSIDs and Encryption...
+Scanning devices on the network...
+
+--- Wi-Fi Security Assessment Summary ---
+Total Nearby SSIDs Detected: 35
+
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:ac: | Signal: -49 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:ab: | Signal: -46 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:aa: | Signal: -36 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-SYSNAUTIX | BSSID: e0:1c:fc:67:16:9d: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: vivo V23e 5G | BSSID: 26:02:4e:90:0e:30: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Likely Strong (Assuming WPA2+ and proper password)
+SSID: SECE_WIFI | BSSID: 3c:52:a1:47:c5:12: | Signal: -63 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 48:22:54:21:b2:f1: | Signal: -54 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 3c:52:a1:47:c5:11: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 3c:52:a1:47:cb:71: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 3c:52:a1:47:cb:70: | Signal: -62 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 40:ae:30:d7:4d:b6: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 48:22:54:21:b2:f0: | Signal: -59 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 48:22:54:21:b2:f2: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 3c:52:a1:47:cb:72: | Signal: -56 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE_WIFI | BSSID: 40:ae:30:d7:4d:b7: | Signal: -55 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:ac: | Signal: -49 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:ab: | Signal: -46 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-ASPIRE LAB | BSSID: e8:9f:80:6f:36:aa: | Signal: -36 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCEENTRE-SYSNAUTIX | BSSID: e0:1c:fc:67:16:9b: | Signal: -66 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SRI ESHWAR-IT Center | BSSID: 2c:30:33:a0:40:90: | Signal: -52 | Encryption: Open (No encryption) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SRI ESHWAR-IT Center | BSSID: 2c:30:33:a0:40:80: | Signal: -48 | Encryption: Open (No encryption) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-BCT | BSSID: c4:41:1e:41:e1:87: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-BCT | BSSID: c4:41:1e:41:e1:86: | Signal: -76 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: ITCENTRE-BCT | BSSID: c4:41:1e:41:e1:88: | Signal: -79 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: Redmi Note 11S | BSSID: ae:c4:da:0d:a9:30: | Signal: -74 | Encryption: Strong (WPA2) | Password Strength: Likely Strong (Assuming WPA2+ and proper password)
+SSID: ITCENTRE-SYSNAUTIX | BSSID: e0:1c:fc:67:16:9d: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: Adhi | BSSID: 2a:09:4c:5d:28:e7: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: ca:41:1e:41:e1:86: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: ee:9f:80:6d:ac:de: | Signal: -78 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: ee:9f:80:6f:36:aa: | Signal: -38 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID:  | BSSID: ee:9f:80:6d:b1:ee: | Signal: -68 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+SSID: SECE GUEST | BSSID: 2c:30:33:5e:ab:ba: | Signal: -80 | Encryption: Strong (WPA2) | Password Strength: Moderate (Consider strong mix in passphrase)
+SSID: SECE-IH3 | BSSID: 8a:62:8b:ba:00:28: | Signal: -82 | Encryption: Strong (WPA2) | Password Strength: Likely Strong (Assuming WPA2+ and proper password)
+SSID: SECE-GDH1 | BSSID: e8:48:b8:5a:74:98: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Likely Strong (Assuming WPA2+ and proper password)
+SSID: Brainy  | BSSID: 6e:a1:29:a2:f9:0e: | Signal: -72 | Encryption: Strong (WPA2) | Password Strength: Weak (SSID too short)
+
+Total Devices Detected on LAN: 15
+IP: 192.168.1.1 | MAC: e8:9f:80:6f:36:a9
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [80, 443, 445]
+IP: 192.168.1.10 | MAC: 28:7f:cf:f5:e9:e8
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [445]
+IP: 192.168.1.40 | MAC: bc:54:2f:6c:7e:56
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [80, 445]
+IP: 192.168.1.68 | MAC: fc:19:99:44:de:e8
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: None
+IP: 192.168.1.93 | MAC: a4:97:b1:79:f4:39
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.84 | MAC: 04:ec:d8:c3:b2:25
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.126 | MAC: a0:29:42:45:b5:f5
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.129 | MAC: c4:75:ab:16:c2:4a
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.196 | MAC: 50:84:92:f4:34:6d
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.180 | MAC: c4:75:ab:16:c2:4a
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [80, 443]
+IP: 192.168.1.177 | MAC: e8:b0:c5:74:16:b1
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.182 | MAC: f6:80:26:48:b4:4a
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [445]
+IP: 192.168.1.212 | MAC: 08:8e:90:92:19:fe
+    ↳ Firewall Status: Enabled (ICMP Blocked)
+    ↳ Open Ports: None
+IP: 192.168.1.209 | MAC: b2:82:b4:dd:93:c9
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: None
+IP: 192.168.1.241 | MAC: a4:97:b1:8c:b6:3f
+    ↳ Firewall Status: Disabled or Permissive (ICMP Allowed)
+    ↳ Open Ports: [445]
+
+MAC Address Filtering: Not Strict (Duplicates found)
+
+Guest Network: Not Detected
+
+WIDS/WIPS Detection: Cannot detect without Enterprise Wireless Controllers or sensors
+Authentication Ports Detected: Checking port 1812 (RADIUS), 443 (HTTPS)
+
+Firewall Integration: ICMP and port scan conducted for all active hosts
+Router Firmware Updates: Access denied (requires SNMP or HTTP admin access)
+Network Segmentation: LAN Active
+Audit & Logging: Not implemented. Recommend forwarding logs to SIEM (e.g., Splunk)
+Penetration Testing: Run nmap or metasploit externally for vulnerability assessment
+User Awareness Testing: Use simulated phishing (e.g., GoPhish, KnowBe4)
+
+Bandwidth Estimate: Not precise. SNMP/NetFlow required for exact traffic insight.
 --- End of Assessment ---
