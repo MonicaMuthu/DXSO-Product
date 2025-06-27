@@ -1,12 +1,34 @@
-=== Network OS Activity Report ===
-Scan Time: 2025-06-24 12:07:35.091080
-Scanned Subnet: 192.168.1.0/24
-------------------------------------------------------------
+=== Full Network OS Security Audit Report ===
+Scan Time: 2025-06-27 00:28:57.287250
+Scanned Subnet: 172.16.160.0/24
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.1
-  ↪ Hostname: Linksys05616
+📡 Host: 172.16.160.1
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Linux 3.2 - 4.14
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.100
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.103
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.103', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98735A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.103', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98840410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -14,11 +36,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.10
-  ↪ Hostname: CHANCALVIBEN
+📡 Host: 172.16.160.104
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Microsoft Windows 11 21H2
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.104', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C988411D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.104', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C9878ED70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -26,11 +56,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.126
-  ↪ Hostname: pavilion
+📡 Host: 172.16.160.106
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.106', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C9878FA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.106', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C989B29F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -38,11 +76,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.129
-  ↪ Hostname: NIRMAL
+📡 Host: 172.16.160.107
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.107', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.107', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -50,11 +96,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.168
-  ↪ Hostname: Redmi-12
+📡 Host: 172.16.160.108
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.108', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.108', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -62,11 +116,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.177
-  ↪ Hostname: WGC
+📡 Host: 172.16.160.109
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.109', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.109', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -74,11 +136,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.180
-  ↪ Hostname: kali
+📡 Host: 172.16.160.110
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Linux 4.15 - 5.19
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.110', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987939B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.110', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -86,11 +156,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.182
-  ↪ Hostname: DESKTOP-V87T25S
+📡 Host: 172.16.160.111
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Microsoft Windows 11 21H2
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.111', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.111', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -98,11 +176,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.193
-  ↪ Hostname: LAPTOP-7Q135OLB
+📡 Host: 172.16.160.112
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.112', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.112', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -110,11 +196,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.196
-  ↪ Hostname: Aswath
+📡 Host: 172.16.160.16
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Not Available
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.16', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.16', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -122,11 +216,27 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.209
-  ↪ Hostname: OPPO-A73
+📡 Host: 172.16.160.18
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.193
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.193', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.193', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -134,11 +244,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.212
-  ↪ Hostname: Ishigami
+📡 Host: 172.16.160.229
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Not Available
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.229', port=5985): Max retries exceeded with url: /wsman (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>, 'Connection to 172.16.160.229 timed out. (connect timeout=30)'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.229', port=5985): Max retries exceeded with url: /wsman (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>, 'Connection to 172.16.160.229 timed out. (connect timeout=30)'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -146,11 +264,19 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.222
-  ↪ Hostname: OVIYA
+📡 Host: 172.16.160.37
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
+  ↪ OS Identification: Linux 2.6.32 - 2.6.35
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.37', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.37', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -158,11 +284,623 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.241
+📡 Host: 172.16.160.38
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 2.6.32 - 2.6.35
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.38', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.38', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.4
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.4', port=5985): Max retries exceeded with url: /wsman (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>, 'Connection to 172.16.160.4 timed out. (connect timeout=30)'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.4', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.48
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.48', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.48', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.49
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.49', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.49', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.50
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.50', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.50', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.51
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.51', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987939B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.51', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.52
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.52', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.52', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.53
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.53', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987939B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.53', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.55
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.55', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.55', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.56
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.56', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.56', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.58
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.58', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.58', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.59
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.59', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.59', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.60
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.60', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.60', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.61
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.61', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98790F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.61', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.62
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.62', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.62', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.63
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.63', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.63', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.64
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.64', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.64', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.65
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.65', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.65', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.66
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.66', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.66', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.67
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.67', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987939B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.67', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.68
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.68', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98790C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.68', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.69
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.69', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987939B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.69', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.70
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.70', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.70', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.71
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.71', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.71', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98793350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.72
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.72', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.72', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.73
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.73', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.73', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.74
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: OpenWrt Chaos Calmer 15.05 (Linux 3.18) or Designated Driver (Linux 4.1 or 4.4)
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.74', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.74', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.76
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Linux 3.2 - 4.14
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.76', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C989DC050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.76', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987918C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.81
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.82
+  ↪ Hostname: LAPTOP-GLMUG9OJ
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.89
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.93
+  ↪ Hostname: Unknown
+  ↪ State: up
+  ↪ OS Identification: Not Available
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.93', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98791AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.93', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
+  ↪ Open Ports:
+     - Port 22 : ssh
+     - Port 80 : http
+     - Port 135 : msrpc
+     - Port 139 : netbios-ssn
+     - Port 443 : https
+     - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
+
+📡 Host: 172.16.160.94
   ↪ Hostname: DESKTOP-5EVSO9A
   ↪ State: up
-  ↪ OS Guess: Microsoft Windows 10 1607 - 11 23H2
+  ↪ OS Identification: Microsoft Windows 10 1607 - 11 23H2
+  🔧 Patch Level Assessment:
+[ERROR] Unable to fetch patches: HTTPConnectionPool(host='172.16.160.94', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C987928B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  📦 Installed Software Inventory:
+[ERROR] Unable to fetch software inventory: HTTPConnectionPool(host='172.16.160.94', port=5985): Max retries exceeded with url: /wsman (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C98792250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+  🛡️ Vulnerability Detection:
+    - No KBs found to evaluate.
   ↪ Open Ports:
      - Port 22 : ssh
      - Port 80 : http
@@ -170,63 +908,21 @@ Scanned Subnet: 192.168.1.0/24
      - Port 139 : netbios-ssn
      - Port 443 : https
      - Port 445 : microsoft-ds
+     - Port 5985 : wsman
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.40
-  ↪ Hostname: Rajesh
+📡 Host: 172.16.160.96
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Microsoft Windows 11 21H2
-  ↪ Open Ports:
-     - Port 22 : ssh
-     - Port 80 : http
-     - Port 135 : msrpc
-     - Port 139 : netbios-ssn
-     - Port 443 : https
-     - Port 445 : microsoft-ds
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
 
-📡 Host: 192.168.1.41
-  ↪ Hostname: V2348
+📡 Host: 172.16.160.97
+  ↪ Hostname: Unknown
   ↪ State: up
-  ↪ OS Guess: Not Available
-  ↪ Open Ports:
-     - Port 22 : ssh
-     - Port 80 : http
-     - Port 135 : msrpc
-     - Port 139 : netbios-ssn
-     - Port 443 : https
-     - Port 445 : microsoft-ds
-
-📡 Host: 192.168.1.78
-  ↪ Hostname: LAPTOP-JIOEN3RI
-  ↪ State: up
-  ↪ OS Guess: Not Available
-  ↪ Open Ports:
-     - Port 22 : ssh
-     - Port 80 : http
-     - Port 135 : msrpc
-     - Port 139 : netbios-ssn
-     - Port 443 : https
-     - Port 445 : microsoft-ds
-
-📡 Host: 192.168.1.92
-  ↪ Hostname: Kawins-LOQ
-  ↪ State: up
-  ↪ OS Guess: Not Available
-  ↪ Open Ports:
-     - Port 22 : ssh
-     - Port 80 : http
-     - Port 135 : msrpc
-     - Port 139 : netbios-ssn
-     - Port 443 : https
-     - Port 445 : microsoft-ds
-
-📡 Host: 192.168.1.93
-  ↪ Hostname: Roshaan-Pavilion
-  ↪ State: up
-  ↪ OS Guess: Not Available
-  ↪ Open Ports:
-     - Port 22 : ssh
-     - Port 80 : http
-     - Port 135 : msrpc
-     - Port 139 : netbios-ssn
-     - Port 443 : https
-     - Port 445 : microsoft-ds
+  ↪ OS Identification: Not Available
+  ⚠️ Skipping Patch/Vuln/Software: WinRM not enabled.
+  ↪ No open ports detected.
+----------------------------------------------------------------------
